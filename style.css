@@ -1,0 +1,6 @@
+
+body {
+    height: 60rem;
+    background: rgb(255,255,255);
+    background: linear-gradient(0deg, rgba(255,255,255,1) 0%, rgba(14,143,205,1) 100%);
+}
