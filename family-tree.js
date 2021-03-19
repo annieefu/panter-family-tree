@@ -118,6 +118,7 @@ create_node(490, 60, first_name="Jules", last_name="Waltner", middle_name="",nod
 create_node(615, 60, first_name="Françoise", last_name="Langevin", middle_name="",nodeid="node4");
 
 draw_line("node1", "node2")
+draw_line("node3", "node4")
 
 let tooltip_width = 184;
 let tooltip_height = 155;
