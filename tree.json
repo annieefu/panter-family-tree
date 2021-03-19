@@ -1,0 +1,36 @@
+{"node1": {
+    "name":"Nechamah Serlin",
+    "id": "node1",
+    "birth": null,
+    "death": null,
+    "birthplace": null,
+    "notes": ""
+},
+"node2": {
+    "name":"Shraga Faivel (Philip) \\\nPanter",
+    "id": "node2",
+    "birth": "1906",
+    "death": null,
+    "birthplace": null,
+    "notes": "a.k.a Poppy (Gideon \\\n Panter's father)"
+},
+"node3": {
+    "name":"Jules Waltner",
+    "id": "node3",
+    "birth": "Dec 8, 1909",
+    "death": "May 29, 1997",
+    "birthplace": "Debreczen, Hungary",
+    "notes": "Husband of Françoise \\\n Langevin"
+},
+"node4": {
+    "name":"Françoise Langevin",
+    "id": "node4",
+    "birth": "Nov 1, 1922",
+    "death": null,
+    "birthplace": "Quebec, Canada",
+    "notes": "Mother of Nancy Waltner"
+}
+
+
+
+}
