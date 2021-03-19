@@ -19,7 +19,7 @@ var data = await d3.json("tree.json");
 //Update tooltip
 function update_tooltip(){
   tooltip.style("visibility", "visible").style("z-index", 100)
-  .attr("transform", "translate(" + (d3.event.pageX-440) + "," + (d3.event.pageY-272) + ")");
+  .attr("transform", "translate(" + (d3.event.pageX-440) + "," + (d3.event.pageY-322) + ")");
   ;
 
   let node = d3.select(this);
