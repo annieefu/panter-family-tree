@@ -1,5 +1,7 @@
 {"node1": {
     "name":"Nechamah Serlin",
+    "d_name": "Nechamah Serlin",
+    "sex": "f",
     "id": "node1",
     "birth": null,
     "death": null,
@@ -8,7 +10,9 @@
 },
 "node2": {
     "name":"Shraga Faivel (Philip) \\\nPanter",
+    "d_name": "Shraga Faivel Panter",
     "id": "node2",
+    "sex": "m",
     "birth": "1906",
     "death": null,
     "birthplace": null,
@@ -16,7 +20,9 @@
 },
 "node3": {
     "name":"Jules Waltner",
+    "d_name": "Jules Waltner",
     "id": "node3",
+    "sex": "m",
     "birth": "Dec 8, 1909",
     "death": "May 29, 1997",
     "birthplace": "Debreczen, Hungary",
@@ -24,13 +30,73 @@
 },
 "node4": {
     "name":"Françoise Langevin",
+    "d_name": "Françoise Langevin",
     "id": "node4",
+    "sex": "f",
     "birth": "Nov 1, 1922",
     "death": null,
     "birthplace": "Quebec, Canada",
     "notes": "Mother of Nancy Waltner"
+},
+"node5": {
+    "name":"Rena Panter",
+    "d_name": "Rena Panter",
+    "id": "node5",
+    "sex": "f",
+    "birth": null,
+    "death": null,
+    "birthplace": null,
+    "notes": "Middle Child (Daughter) \\\n of Faivel and Nechamah"
+},
+"node6": {
+    "name":"Elanna Panter \\\n (Sherman)",
+    "d_name": "Elanna Panter",
+    "id": "node6",
+    "sex": "f",
+    "birth": null,
+    "death": null,
+    "birthplace": null,
+    "notes": "Youngest Child (Daughter) \\\n of Faivel and Nechama"
+},
+"node7": {
+    "name":"Gideon Panter",
+    "d_name": "Gideon Panter",
+    "id": "node7",
+    "sex": "m",
+    "birth": "Apr 24, 1935",
+    "death": "Dec 23, 2020",
+    "birthplace": "Montréal, Quebec, Canada",
+    "notes": "Oldest Child (Son) of Faivel \\\n and Nechamah"
+},
+"node8": {
+    "name":"Carol Yeckes",
+    "d_name": "Carol Yeckes",
+    "id": "node8",
+    "sex": "f",
+    "birth": null,
+    "death": null,
+    "birthplace": null,
+    "notes": "Wife of Gideon, Daughter of \\\n Irving and Rosalie"
+},
+"node9": {
+    "name":"Nancy Waltner",
+    "d_name": "Nancy Waltner",
+    "id": "node9",
+    "sex": "f",
+    "birth": "Mar 29, 1955",
+    "death": null,
+    "birthplace": "New York, NY",
+    "notes": "Daughter of Jules and \\\n Françoise, Wife of Gideon"
+},
+"node10": {
+    "name":"Audrey Waltner",
+    "d_name": "Audrey Waltner",
+    "id": "node10",
+    "sex": "f",
+    "birth": null,
+    "death": null,
+    "birthplace": "New York, NY",
+    "notes": "Daughter of Jules and \\\n Françoise"
 }
-
-
 
 }
